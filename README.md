@@ -116,7 +116,7 @@ instagram.com/seu_instagram
   </a>
   <img width="12" />
   <a href="https://www.instagram.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="40" alt="instagram logo" />
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="40" alt="instagram logo"  />
   </a>
 </div>
 

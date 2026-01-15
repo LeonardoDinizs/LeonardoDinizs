@@ -112,7 +112,8 @@ instagram.com/seu_instagram
 
 <div align="left">
   <a href="https://www.linkedin.com/in/leonardo-diniz-0a7a1a24a" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="40" alt="linkedin logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
+  <img width="12" />
   </a>
   <img width="12" />
   <a href="https://www.instagram.com/" target="_blank">
